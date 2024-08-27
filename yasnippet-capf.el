@@ -7,7 +7,7 @@
 ;; Maintainer: Ellis Kenyő <me@elken.dev>
 ;; Created: August 11, 2022
 ;; Modified: August 11, 2022
-;; Version: 0.0.3
+;; Version: 0.0.4
 ;; Homepage: https://github.com/elken/yasnippet-capf
 ;; Package-Requires: ((emacs "25.1") (yasnippet "0.14.0"))
 ;;
